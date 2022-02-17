@@ -1,0 +1,10 @@
+Levi;Ackerman;23;P;1;35
+Aki;Hayakawa;19;F;4000
+Kobeni;Higashiyama;43;F;3200
+Yutaro;Kurose;34;P;3;43
+Hirofumi;Yoshida;81;P;5;20
+Michiko;Tendo;22;P;5;39
+Eren;Yaeger;38;F;3500
+Itachi;Uchiha;44;F;3700
+Hiro;Shimono;20;F;3500
+Mikasa;Ackerman;18;P;4;17
